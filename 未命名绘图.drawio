@@ -1,11 +1,189 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="NKe5GSKEQVnzzUq5Ma0R">
-    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RhTGuLiXN0oR_9AooKCL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="290" width="500" x="70" y="60" as="geometry" />
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-57" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="项目建设方" vertex="1">
+          <mxGeometry height="1484" width="150" x="200" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-58" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="其他单位" vertex="1">
+          <mxGeometry height="1484" width="150" x="-130" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-59" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="全景管理应用" vertex="1">
+          <mxGeometry height="1484" width="150" x="551" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-60" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="项目承建方" vertex="1">
+          <mxGeometry height="1484" width="150" x="845" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-61" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="402" width="649" x="84" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-62" parent="QcP8fmtWcmkhwj7iWJnD-61" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[审核不通过]" vertex="1">
+          <mxGeometry height="20" width="619" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-63" parent="QcP8fmtWcmkhwj7iWJnD-61" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[审核通过]" vertex="1">
+          <mxGeometry height="3" width="649" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-64" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="loop" vertex="1">
+          <mxGeometry height="216" width="397" x="615" y="1652" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-65" parent="QcP8fmtWcmkhwj7iWJnD-64" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[每月月初]" vertex="1">
+          <mxGeometry height="20" width="357" x="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-66" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="264" width="391" x="615" y="2064" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-67" parent="QcP8fmtWcmkhwj7iWJnD-66" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[计划未达标]" vertex="1">
+          <mxGeometry height="20" width="361" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-68" parent="QcP8fmtWcmkhwj7iWJnD-66" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[计划达标]" vertex="1">
+          <mxGeometry height="3" width="391" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-69" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="loop" vertex="1">
+          <mxGeometry height="460" width="411" x="605" y="1878" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-70" parent="QcP8fmtWcmkhwj7iWJnD-69" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[每周五]" vertex="1">
+          <mxGeometry height="20" width="371" x="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-71" edge="1" parent="1" source="QcP8fmtWcmkhwj7iWJnD-57" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="QcP8fmtWcmkhwj7iWJnD-59" value="初步制定飞行作业计划">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="969" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-72" edge="1" parent="1" source="QcP8fmtWcmkhwj7iWJnD-57" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="QcP8fmtWcmkhwj7iWJnD-59" value="公开发布飞行计划">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="1023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-73" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="提交自定义点位需求 + 明确采集期限">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="469" y="1166" />
+            </Array>
+            <mxPoint x="-55.5" y="1166" as="sourcePoint" />
+            <mxPoint x="625.5" y="1166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-74" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="审核点位需求">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="1220" />
+            </Array>
+            <mxPoint x="274.5" y="1220" as="sourcePoint" />
+            <mxPoint x="625.5" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-75" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="退回修改/重新提交">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="472" y="1322" />
+            </Array>
+            <mxPoint x="625.5" y="1322" as="sourcePoint" />
+            <mxPoint x="-55.5" y="1322" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-76" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="判定是否纳入新增点位">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="1424" />
+            </Array>
+            <mxPoint x="274.5" y="1424" as="sourcePoint" />
+            <mxPoint x="625.5" y="1424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-77" edge="1" parent="1" style="curved=1;endArrow=block;rounded=0;" value="新增点位纳入统一采集清单">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="677" y="1478" />
+              <mxPoint x="677" y="1508" />
+            </Array>
+            <mxPoint x="625.5" y="1478" as="sourcePoint" />
+            <mxPoint x="625.5" y="1508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-78" edge="1" parent="1" style="curved=1;endArrow=block;rounded=0;" value="到期自动从清单删除">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="677" y="1562" />
+              <mxPoint x="677" y="1592" />
+            </Array>
+            <mxPoint x="625.5" y="1562" as="sourcePoint" />
+            <mxPoint x="625.5" y="1592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-79" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="获取最新采集清单">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1734" />
+            </Array>
+            <mxPoint x="919.5" y="1734" as="sourcePoint" />
+            <mxPoint x="625.5" y="1734" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-80" edge="1" parent="1" style="curved=1;endArrow=block;rounded=0;" value="统筹开展外业采集作业">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="971" y="1788" />
+              <mxPoint x="971" y="1818" />
+            </Array>
+            <mxPoint x="919.5" y="1788" as="sourcePoint" />
+            <mxPoint x="919.5" y="1818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-81" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="上报本周工作量及下周计划">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1960" />
+            </Array>
+            <mxPoint x="919.5" y="1960" as="sourcePoint" />
+            <mxPoint x="625.5" y="1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-82" edge="1" parent="1" style="curved=1;endArrow=block;rounded=0;" value="作业计划复盘">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="971" y="2014" />
+              <mxPoint x="971" y="2044" />
+            </Array>
+            <mxPoint x="919.5" y="2014" as="sourcePoint" />
+            <mxPoint x="919.5" y="2044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-83" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="同步滞后原因、整改及补采安排">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="2146" />
+            </Array>
+            <mxPoint x="919.5" y="2146" as="sourcePoint" />
+            <mxPoint x="625.5" y="2146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-84" edge="1" parent="1" style="curved=1;endArrow=block;rounded=0;" value="正常推进后续作业">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="971" y="2248" />
+              <mxPoint x="971" y="2278" />
+            </Array>
+            <mxPoint x="919.5" y="2248" as="sourcePoint" />
+            <mxPoint x="919.5" y="2278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-86" edge="1" parent="1" source="QcP8fmtWcmkhwj7iWJnD-59" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="查看最新飞行计划">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467.5" y="1090" />
+            </Array>
+            <mxPoint x="621" y="1090" as="sourcePoint" />
+            <mxPoint x="-60" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcP8fmtWcmkhwj7iWJnD-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" value="数据采集计划" vertex="1">
+          <mxGeometry height="320" width="50" x="601" y="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
